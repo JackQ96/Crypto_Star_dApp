@@ -1,4 +1,4 @@
-pragma solidity >=0.8.2;
+pragma solidity >=0.8.4;
 
 //Importing openzeppelin-solidity ERC-721 implemented Standard
 // import "../node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721.sol";
